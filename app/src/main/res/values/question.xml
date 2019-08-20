@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_1">Do you often have headeaches?</string>
+    <string name="no_2">Is your appetite poor?</string>
+    <string name="no_3">Do you sleep badly?</string>
+    <string name="no_4">Do your hands shake?</string>
+    <string name="no_5">Are you easili frightened?</string>
+    <string name="no_6">Do you feel nervous, tense or worried?</string>
+    <string name="no_7">Is your digestion poor?</string>
+    <string name="no_8">Do you have trouble thinking clearly?</string>
+    <string name="no_9">Do you feel unhappy?</string>
+    <string name="no_10">Do you cry more than usual?</string>
+    <string name="no_11">Do you find it difficult to enjoy your daily activities?</string>
+    <string name="no_12">Do you find it difficult to make decisions?</string>
+    <string name="no_13">Is your daily work suffering?</string>
+    <string name="no_14">Are you unable to play a useful part in life?</string>
+    <string name="no_15">Have you lost interest in things?</string>
+    <string name="no_16">Do you feel that you are a worthless person?</string>
+    <string name="no_17">Has the thought of ending your life been on your mind?</string>
+    <string name="no_18">Do you feel tired all the time?</string>
+    <string name="no_19">Do you have uncomfortable feelings in your stomach?</string>
+    <string name="no_20">Are you easily tired?</string>
+    <string name="no_21">Do you consume an excessive amount of alcoholic drink or do you take any drugs?</string>
+    <string name="no_22">Do you feel convinced that a particular person is threatening you?</string>
+    <string name="no_23">Is there any unusual or disturbing thoughts on your mind?</string>
+    <string name="no_24">Do you hear unsourced noise which also can be unrecognizable by anyone else?</string>
+    <string name="no_25">Have you experienced a bad dream about particular disasters or is there any specific moment that recall you back to experiencing particular disasters?</string>
+    <string name="no_26">Do you avoid any activity, place, person, or thought related with that particular disaster?</string>
+    <string name="no_27">Have your interest on doing daily activities / having friends around diminished ?</string>
+    <string name="no_28">Do you feel so disturbed if you were in a situation that recall you back to particular disaster or if you had a sudden thought to that particular disaster?</string>
+    <string name="no_29">Do you have any issues in expressing or understanding your feeling?</string>
+</resources>
