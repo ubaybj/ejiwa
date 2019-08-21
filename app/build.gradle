@@ -9,7 +9,7 @@ android {
             storePassword '123456'
         }
     }
-    compileSdkVersion 26
+    compileSdkVersion 19
     defaultConfig {
         applicationId "com.puskesmascilandak.e_jiwa"
         minSdkVersion 15
@@ -30,6 +30,7 @@ android {
             minifyEnabled false
         }
     }
+    buildToolsVersion '27.0.3'
 }
 
 dependencies {
